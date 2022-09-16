@@ -62,7 +62,7 @@ louis==3.5.0
 macaroonbakery==1.1.3
 macholib==1.11
 macropy3==1.1.0b2
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.0
 matplotlib==3.0.1
 mccabe==0.6.1
